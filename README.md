@@ -6,7 +6,7 @@
 
 ## 💻 Expressões Regulares (Regex)
 
-![interface](logo.jpeg "Logo")
+![interface](logo.jpg "Logo")
 
 ```bash
 # Clone o repositório e entre na pasta do projeto
